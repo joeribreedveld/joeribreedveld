@@ -2,6 +2,6 @@
 
 - ✔️ I’m currently working on ([oorsprongsdocumenten.nl](https://oorsprongsdocumenten.nl/))
 
-- ✔️ I’m currently learning **Redux, TypeScript and GraphQL**
+- ✔️ I’m currently learning **React and Node.js**
 
 - ✔️ Visit my portfolio website for more information ([joeribreedveld.com](https://joeribreedveld.com/))
