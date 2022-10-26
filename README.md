@@ -2,6 +2,6 @@
 
 - ✔️ I’m currently working on ([oorsprongsdocumenten.nl](https://oorsprongsdocumenten.nl/))
 
-- ✔️ I’m currently learning **React and Node.js**
+- ✔️ I’m currently learning **GraphQL and MERN**
 
 - ✔️ Visit my portfolio website for more information ([joeribreedveld.com](https://joeribreedveld.com/))
