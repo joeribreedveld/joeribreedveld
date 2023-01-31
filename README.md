@@ -4,4 +4,4 @@
 
 - ✔️ I’m currently improving my **React** and **UX/UI** skills
 
-- ✔️ Visit my portfolio website for more information ([joeribreedveld.com](https://joeribreedveld.com/))
+- ✔️ Visit my [portfolio website](https://joeribreedveld.com/) for more information (outdated)
