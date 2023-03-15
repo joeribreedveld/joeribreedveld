@@ -1,7 +1,7 @@
 ### Joeri Breedveld - Full Stack Developer
 
-- ✔️ I’m currently working on **my Internship** and **Personal Projects**
+- ✔️ I’m currently working on **my internship** and **personal projects**
 
-- ✔️ I’m currently learning **Framer** and **Advanced React**
+- ✔️ I’m currently learning **Framer** and **advanced React**
 
 - ✔️ Visit my [portfolio website](https://joeribreedveld.com/) for more information (outdated)
