@@ -1,6 +1,6 @@
 ### Joeri Breedveld - Full Stack Developer
 
-- ✔️ I’m currently working on **my internship** and **personal projects**
+- ✔️ I’m currently working on **my portfolio** and **VENCE Clone**
 
 - ✔️ I’m currently learning **Framer** and **advanced React**
 
