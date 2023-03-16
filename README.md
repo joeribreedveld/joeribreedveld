@@ -1,4 +1,4 @@
-### Joeri Breedveld - Full Stack Developer
+### Joeri Breedveld - Frontend Developer
 
 - ✔️ I’m currently working on **my portfolio** and **VENCE Clone**
 
