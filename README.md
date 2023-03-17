@@ -1,7 +1,7 @@
 ### Joeri Breedveld - Frontend Developer
 
-- ✔️ I’m currently working on **my portfolio** and **VENCE Clone**
+- ✔️ I’m currently working on **joeribreedveld.com** and **vence-interior**
 
-- ✔️ I’m currently learning **Framer** and **advanced React**
+- ✔️ I’m currently learning **Framer Motion** and advanced **React**
 
-- ✔️ Visit my [portfolio website](https://joeribreedveld.com/) for more information (outdated)
+- ✔️ Visit my [portfolio website](https://joeribreedveld.com/) for more information (under construction)
