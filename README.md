@@ -4,4 +4,4 @@
 
 - ✔️ I’m currently learning **Next.js 13** and advanced **React**
 
-- ✔️ Visit my [portfolio website](https://joeribreedveld.com/) for more information (under construction)
+- ✔️ Visit my [portfolio website](https://joeribreedveld.com/) for more information
