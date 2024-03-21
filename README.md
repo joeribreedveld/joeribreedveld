@@ -4,4 +4,4 @@
 
 🎓 - Studying **Software Engineering**
 
-ℹ️ - Visit my [portfolio website](https://joeribreedveld.com/) for more information
+💻 - Visit my [portfolio website](https://joeribreedveld.com/) for more information
