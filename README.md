@@ -1,6 +1,6 @@
 ### Joeri Breedveld - Software Engineer
 
-- ✔️ I’m currently working on **Lucas Arts game clone**
+- ✔️ I’m currently working on **Knight's Quest (text based game)**
 
 - ✔️ I’m currently learning **Vim** and **Data Structures**
 
